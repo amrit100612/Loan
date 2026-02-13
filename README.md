@@ -1,8 +1,10 @@
-A heartfelt thank you to my amazing partners for their valuable contributions, support, and collaboration throughout this project:
+**A heartfelt thank you to my amazing partners for their valuable contributions, support, and collaboration throughout this project 🙏**
 
-@srishtik-ui   @amolsingh05
+### 🌟 **@srishtik-ui**
+### 🌟 **@amolsingh05**
 
-Your efforts played an important role in making this project successful. 🚀
+**Your efforts played a crucial role in making this project successful. 🚀**
+
 
 # 🏦 Loan Approval Prediction System
 
