@@ -176,7 +176,7 @@ The model is deployed using **Streamlit**, allowing users to input applicant det
 ## 🤝 Contributing
 
 Contributions are welcome!
-Feel free to fork the repository and submit a pull request.
+Feel free to fork the repository and submit a pull request...
 
 ---
 
