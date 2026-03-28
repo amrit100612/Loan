@@ -156,10 +156,9 @@ streamlit run app/streamlit_app.py
 ```
 
 ---
-
 ## 🌐 Deployment
 
-The model is deployed using **Streamlit**, allowing users to input applicant details and receive real-time loan approval predictions.
+The model is deployed using **Huggingface**, allowing users to input applicant details and receive real-time loan approval predictions.
 
 ---
 
@@ -182,3 +181,5 @@ Feel free to fork the repository and submit a pull request...
 
 
 ### ⭐ If you found this project helpful, consider giving it a star!
+
+
